@@ -38,7 +38,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noah1700&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/YasPHP/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoahEFeldt&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/YasPHP/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Noah1700.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=NoahEFeldt.visitor-badge)
   
