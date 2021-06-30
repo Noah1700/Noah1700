@@ -6,12 +6,12 @@
 
   - 📚 Student in Germany 
   - 👩‍💻 CEO of Stupid Projects
-   - 🧪 I hate graphic design
+  - 🧪 I hate graphic design
+
 
 
 <br />
-
-
+<br />
 
 ### Languages:
 
