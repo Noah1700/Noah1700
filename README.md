@@ -20,6 +20,8 @@
 <img align="left" alt="React" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" />
 <img align="left" alt="Vue" width="26px" src="https://img.icons8.com/color/452/vue-js.png" />
 <img align="left" alt="NodeJS" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" />
+<img align="left" alt="Typescript" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-2336947-1982828.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
 <img align="left" alt="C#" width="26px" src="https://docs.microsoft.com/de-de/windows/images/csharp-logo.png" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />
 
