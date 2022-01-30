@@ -32,7 +32,7 @@
 ### Connect with me:
 
 <li>-Website: http://eliasfeldt.de
-<li>-Email: noah@eliasfeldt.de
+<li>-Email: noaheliasfeldt@pm.me
 <li>-Twitter: https://twitter.com/FNoahE
 
 <br />
